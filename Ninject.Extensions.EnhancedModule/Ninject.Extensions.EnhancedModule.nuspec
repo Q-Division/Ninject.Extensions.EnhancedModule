@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Ninject.Extensions.EnhancedModule</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Q_Division</authors>
+    <owners>Q_Division</owners>
+	<projectURL>https://github.com/Q-Division/Ninject.Extensions.EnhancedModule</projectURL>
+	<requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple extension for NinjectModule which checks if a dependency module is already loaded.</description>
+    <releaseNotes>First Release</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Library</tags>
+  </metadata>
+</package>
